@@ -14,4 +14,4 @@ var logo = getElementById("logo");
 
 2.  What statement would you use to create a variable named "firstPriority" and assign as its value a reference to the first "li" element in the document?
 
-var firstPriority = getElementsByTagName("li")[0];
+var firstPriority = getElementsByTagName("li")[0]; 
